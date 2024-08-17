@@ -1,7 +1,7 @@
 {
   "name": "Min Theme",
   "version": "1.0",
-  "description": "",
+  "description": "A dark minimal Google Chrome theme inspired by Min Theme.",
   "manifest_version": 3,
   "theme": {
     "images": {
